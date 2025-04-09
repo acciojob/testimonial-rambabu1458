@@ -3,7 +3,7 @@ main{
 	padding:12px;
 	background-color:lightgray;
 }
-.testimonial{
+div .testimonial{
 	margin:10px 0;
 	padding:0 8px;
 	border:1px solid black;
